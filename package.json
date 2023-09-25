@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/twolfson/grunt-zip.git"
+    "url": "git://github.com/icanbwell/grunt-zip"
   },
   "bugs": {
     "url": "https://github.com/twolfson/grunt-zip/issues"
